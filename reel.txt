@@ -1,2 +1,3 @@
 リールを追加
 git status
+git diff
