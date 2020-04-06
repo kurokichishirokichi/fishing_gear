@@ -1,1 +1,3 @@
 追加したファイル
+gear.txtを削除
+reel.txtを追加
