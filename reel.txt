@@ -1,1 +1,2 @@
 リールを追加
+git status
